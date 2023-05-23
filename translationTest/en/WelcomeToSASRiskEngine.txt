@@ -1,0 +1,16 @@
+Welcome to SAS Risk Engine
+SAS Risk Engine enables you to calculate risk exposures on demand in near real-time across risk types,
+and to interactively explore analysis results at any aggregation level.
+You can access SAS Risk Engine through a user interface or programmatically by calling the SAS Cloud Analytics Services (CAS) risk action sets.
+With SAS Risk Engine, you can perform many types of risk analyses including the following:
+
+* on-demand regulatory risk analysis
+* profit and loss analysis based on market, credit, and liquidity risk
+* sensitivity analysis
+* fast, interactive stress testing and scenario analysis
+* advanced simulation-based risk analysis
+* counterparty risk and collateral risk analysis
+* cash flow analysis
+* incremental risk and risk contribution analysis
+* Use the SAS Risk Engine User Interface to Perform Risk Analyses
+* The easiest way to get started with risk analyses is by using the SAS Risk Engine user interface that SAS Risk Engine provides.
